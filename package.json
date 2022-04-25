@@ -72,5 +72,13 @@
     "development"
   ],
   "author": "Rakibul Hasan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RifatdaM/nft-preview-card.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RifatdaM/nft-preview-card/issues"
+  },
+  "homepage": "https://github.com/RifatdaM/nft-preview-card#readme"
 }
